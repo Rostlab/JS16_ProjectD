@@ -1,0 +1,28 @@
+{
+  "name": "sentiment_group5",
+  "version": "1.0.0",
+  "description": "Seminar 16: JavaScript: Sentiment-App_Group5",
+   "main": "index.js",
+  "scripts": {
+      "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rostlab/JS16_ProjectD_Group5.git"
+  },
+  "keywords": [
+    "TUM",
+    "GoT",
+    "Twitter"
+  ],
+  "author": "Group 5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rostlab/JS16_ProjectD_Group5/issues"
+  },
+  "homepage": "https://github.com/Rostlab/JS16_ProjectD_Group5#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^1.0.0"
+  }
+}
