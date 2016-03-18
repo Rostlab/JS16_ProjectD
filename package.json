@@ -4,7 +4,7 @@
   "description": "Seminar 16: JavaScript: Sentiment-App_Group5",
   "main": "index.js",
   "scripts": {
-      "test": "grunt test"
+    "test": "grunt test"
   },
   "repository": {
     "type": "git",
@@ -13,7 +13,9 @@
   "keywords": [
     "TUM",
     "GoT",
-    "Twitter"
+    "Twitter",
+    "rostlab",
+    "sentiment"
   ],
   "author": "Group 5",
   "license": "GNU",
