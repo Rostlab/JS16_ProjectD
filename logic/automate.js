@@ -17,7 +17,6 @@ exports.startAutomation = function () {
         var currentPos = 0;
 
         intervalID = setInterval(function () {
-
             var currentDate = new Date();
             var startDate = new Date();
             var msToGoBack = names.length * config.automation.minutes * 60 * 1000;
